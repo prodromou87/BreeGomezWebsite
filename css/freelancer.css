@@ -430,3 +430,16 @@ div.polaroid-2 {
 div.polaroid-text {
   padding: 10px;
 }
+
+.polaroid > img {
+  height: 188px;
+}
+
+.polaroid-2 > img {
+  height: 262px;
+}
+
+.portfolio-item > img {
+  height:250px;
+  width: 350px;
+}
