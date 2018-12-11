@@ -172,6 +172,14 @@ section h2 {
   }
 }
 
+.bg-accord {
+  margin-top: 10em;
+  background-image: url('../img/portfolio/accord/accord3.jpg');
+  background-size:     contain;                      /* <------ */
+  background-repeat:   no-repeat;
+  background-position: center center;              /* optional, center the image */
+}
+
 header.masthead {
   padding-top: calc(6rem + 72px);
   padding-bottom: 6rem;
@@ -381,4 +389,18 @@ a:focus, a:hover, a:active {
 .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
   background-color: #1a252f;
   border-color: #1a252f;
+}
+
+.portfolio-thumb-photo-1 {
+  max-width:637px;
+  max-height:479px;
+  width: auto;
+  height: auto;
+}
+
+.portfolio-thumb-photo-2 {
+  max-width:750px;
+  max-height:537px;
+  width: auto;
+  height: auto;
 }
