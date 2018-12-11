@@ -404,3 +404,7 @@ a:focus, a:hover, a:active {
   width: auto;
   height: auto;
 }
+
+.portfolio-text {
+  font-size:20px;
+}
